@@ -5,3 +5,5 @@ PÁGINA 3
 LOGIN
 
 A página do login foi criada através do endereço https://...
+O login deve ser aberto em uma nova janela a ser configurada
+
