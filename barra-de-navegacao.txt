@@ -3,3 +3,5 @@ PÁGINA 1
 PÁGINA 2
 PÁGINA 3
 LOGIN
+
+O login deve ser aberto em uma nova janela a ser configurada
